@@ -53,7 +53,16 @@ vk-cdn.pro
 vk-cdn.ru
 vk-cdn.com
 vk-cdn.cc
+youla.io
+skbx.pro
+skillbox.pro
+tarantool.io
+bizmrg.com
+mvk.com
 userapi.com
+vkvideo.ru
+vkontakte.ru
+
 
 # === Mail.ru ===
 mail.ru
@@ -145,18 +154,6 @@ rustore.cloud
 rustore.media
 rustore.audio
 rustore.plus
-
-# === Платформы и сервисы VK ===
-youla.io
-skbx.pro
-skillbox.pro
-tarantool.io
-bizmrg.com
-mvk.com
-userapi.com
-vkvideo.ru
-vkontakte.ru
-
 
 # max
 max.ru
