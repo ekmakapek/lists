@@ -53,6 +53,7 @@ vk-cdn.pro
 vk-cdn.ru
 vk-cdn.com
 vk-cdn.cc
+userapi.com
 
 # === Mail.ru ===
 mail.ru
