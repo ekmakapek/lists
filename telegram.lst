@@ -1,10 +1,12 @@
 ###
 
+imem.app
 comments.app
 contest.com
 fragment.com
 graph.org
 quiz.directory
+stel.com
 t.me
 tdesktop.com
 telega.one
@@ -14,26 +16,14 @@ telegram.dog
 telegram.me
 telegram.org
 telegram.space
+telegramdownload.com
 telesco.pe
 tg.dev
 tx.me
 cdn-telegram.org
-storage.telegram.org
-cdn1.telegram.org
-cdn2.telegram.org
-cdn3.telegram.org
-cdn4.telegram.org
-cdn5.telegram.org
-api.telegram.org
-web.telegram.org
-venus.web.telegram.org
-flora.web.telegram.org
-pluto.web.telegram.org
-aurora.web.telegram.org
-vesta.web.telegram.org
+tdesktop.com
 usercontent.dev
-k.telegram.org
-z.telegram.org
+swiftgram.app
 ton.org
 
 ####
@@ -97,6 +87,7 @@ ton.org
 74.125.131.121/32
 74.125.205.121/32
 91.105.192.0/23
+91.108.0.0/16
 91.108.4.0/22
 91.108.8.0/22
 91.108.12.0/22
@@ -116,6 +107,8 @@ ton.org
 104.26.15.213/32
 108.156.0.0/14
 108.177.14.121/32
+109.239.140.0/24
+139.59.210.98/32
 142.250.0.0/16
 142.251.0.0/16
 143.204.0.0/16
@@ -152,6 +145,7 @@ ton.org
 188.245.0.0/16
 192.178.0.0/16
 194.221.0.0/16
+196.55.216.167/32
 209.85.233.121/32
 213.180.193.250/32
 216.58.198.0/24
