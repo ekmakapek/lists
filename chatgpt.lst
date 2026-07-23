@@ -3,8 +3,26 @@
 chatgpt.com
 openai.com
 oaistatic.com
-openai.fund
 oaiusercontent.com
+browser-intake-datadoghq.com
+arkoselabs.com
+azurefd.net
+azureedge.net
+cloudflareinsights.com
+ai.com
+algolia.net
+livekit.cloud
+featuregates.org
+auth0.com
+statsigapi.net
+identrust.com
+intercomcdn.com
+launchdarkly.com
+observeit.net
+imgix.net
+segment.io
+sentry.io
+stripe.com
 
 ### API + ChatGPT + Краулеры + Cloudflare + openai.com + OpenAI API + Azure
 
@@ -17,6 +35,7 @@ oaiusercontent.com
 20.0.0.0/10
 23.96.0.0/14
 23.102.128.0/17
+24.199.123.28/32
 40.64.0.0/10
 48.192.0.0/10
 48.218.128.0/17
@@ -25,6 +44,7 @@ oaiusercontent.com
 52.128.0.0/10
 57.128.0.0/9
 57.152.0.0/13
+64.23.132.171/32
 64.124.16.0/20
 66.192.0.0/11
 68.128.0.0/9
