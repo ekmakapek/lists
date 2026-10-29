@@ -1,6 +1,7 @@
 # === YANDEX (Яндекс) ===
 
 yandex.ru
+yadi.sk
 ya.ru
 yandex.com
 yandex.net
