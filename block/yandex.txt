@@ -80,3 +80,5 @@ ja-sale.ru
 nano-yandex.ru
 adfox.ru
 awaps.ru
+webvisor.org
+webvisor.net
